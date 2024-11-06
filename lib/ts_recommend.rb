@@ -72,8 +72,8 @@ module TaylorSwiftRecommend
 }
 
   def self.ask_for_mood
-    puts "¿Cómo te sientes hoy?".blue
-    puts "Te recomendaré una canción de Taylor Swift según tu estado de ánimo.".blue
+    puts "How are you feeling today?".blue
+    puts "I’ll recommend a Taylor Swift song based on your mood.".blue
     puts "- happy".green
     puts "- sad".light_blue
     puts "- angry".red
@@ -89,12 +89,12 @@ module TaylorSwiftRecommend
     if SONGS.keys.include?(mood)
       song = SONGS[mood].sample
       album_color = ALBUM_COLORS[song[:album]] || :default
-      puts "Hoy te recomiendo la canción: '#{song[:song].colorize(album_color)}' de su álbum '#{song[:album].colorize(album_color)}'."
+      puts "Today, I recommend the song: '#{song[:song].colorize(album_color)}' from the album '#{song[:album].colorize(album_color)}'."
     else
-      puts "Lo siento, no reconozco ese estado de ánimo. Intenta de nuevo.".red
+      puts "Sorry, I don’t recognize that mood. Please try again.".red
       ask_for_mood
     end
-  end
+  end  
   
   def self.run
       ask_for_mood
