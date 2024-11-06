@@ -1,43 +1,43 @@
 # ```TaylorSwift-Recommend```
-### ``` Descripción:```<br>
-`ts_recommend` es una gema de Ruby que te ofrece recomendaciones personalizadas de canciones de Taylor Swift basadas en tu estado de ánimo. A través de una interacción sencilla, puedes recibir sugerencias de canciones de diferentes álbumes de una de las artistas más influyentes de la música contemporánea.
+### ``` Description:```<br>
+`ts_recommend`is a Ruby gem that provides personalized Taylor Swift song recommendations based on your mood. Through a simple interaction, you can receive song suggestions from different albums by one of the most influential artists in contemporary music.
+![consola](https://github.com/user-attachments/assets/5c806e16-60ca-4e1b-95b7-de8b5f60415c)
 
-### ```Trayectoria de Taylor Swift:``` <br>
-Taylor Swift es una cantautora estadounidense que ha dejado una huella imborrable en la industria musical desde su debut en 2006. Conocida por su habilidad para contar historias a través de sus letras, ha explorado diversos géneros, desde el country hasta el pop, y más recientemente, el indie folk. Su álbum debut, *Taylor Swift*, fue seguido por éxitos como *Fearless*, que ganó múltiples premios Grammy y consolidó su lugar en la música mainstream.<br>
+### ```Taylor Swift's Journey :``` <br>
+Taylor Swift is an American singer-songwriter who has left an indelible mark on the music industry since her debut in 2006. Known for her storytelling ability, she has explored various genres, from country to pop, and more recently, indie folk. Her debut album, *Taylor Swift*, was followed by major successes like *Fearless*, which won multiple Grammy Awards and established her in mainstream music.<br>
 <img src="public/ts.png" alt="Taylor Swift" height="500">
 
-A lo largo de su carrera, Taylor ha lanzado álbumes icónicos que han sido aclamados tanto por la crítica como por los fans. Algunos de sus álbumes más destacados incluyen:
+Throughout her career, Taylor has released iconic albums that have been acclaimed by critics and fans alike. Some of her standout albums include:
 
-- **Taylor Swift (2006)**: Su álbum debut que introdujo su estilo country y su habilidad como compositora.
-- **Fearless (2008)**: Un gran éxito que la catapultó a la fama internacional, incluyendo éxitos como "Love Story" y "You Belong with Me".
-- **Speak Now (2010)**: Un álbum completamente escrito por Taylor, donde exploró temas de amor y desamor.
-- **Red (2012)**: Marcaron su transición hacia el pop, con temas como "I Knew You Were Trouble" y "We Are Never Ever Getting Back Together".
-- **1989 (2014)**: Su primer álbum pop que ganó el Grammy al Álbum del Año, incluyendo hits como "Shake It Off" y "Blank Space".
-- **Reputation (2017)**: Un álbum más oscuro que refleja su vida personal y su relación con los medios.
-- **Lover (2019)**: Un regreso a un sonido más alegre y romántico, celebrando el amor y la aceptación.
-- **Folklore (2020)** y **Evermore (2020)**: Ambos álbumes fueron una evolución hacia un sonido más indie y folk, recibiendo elogios por su lírica introspectiva.
+- **Taylor Swift (2006)**: Her debut album that introduced her country style and songwriting talent.
+- **Fearless (2008)**: A huge success that catapulted her to international fame, featuring hits like "Love Story" and "You Belong with Me."
+- **Speak Now (2010)**: An entirely self-written album, exploring themes of love and heartbreak.
+- **Red (2012)**: Marked her transition into pop, with songs like "I Knew You Were Trouble" and "We Are Never Ever Getting Back Together."
+- **1989 (2014)**: Her first pure pop album, winning the Grammy for Album of the Year and featuring hits like "Shake It Off" and "Blank Space."
+- **Reputation (2017)**: A darker album reflecting her personal life and her relationship with the media.
+- **Lover (2019)**: A return to a more cheerful and romantic sound, celebrating love and acceptance.
+- **Folklore (2020)** y **Evermore (2020)**: Both albums marked a shift to a more indie and folk sound, praised for their introspective lyrics.
+- **Midnights (2022)**: An introspective, synth-pop album by Taylor Swift that delves into themes of self-reflection, love, insecurity, and late-night thoughts. 
+- **The Tortured Poets Departament (2024)**: A profound and poetic album, exploring raw emotions and personal struggles, reflecting on love, pain, and self-awareness with rich, introspective lyrics.
 
-Con `ts_recommend`, puedes sumergirte en la música de Taylor Swift y descubrir canciones que resuenen con tus emociones del día. Ya sea que estés feliz, triste, nostálgico o romántico, la gema te guiará hacia la canción perfecta para tu estado de ánimo.
+With `ts_recommend` ,you can dive into Taylor Swift’s music and discover songs that resonate with your emotions. Whether you're feeling happy, sad, nostalgic, or romantic, the gem will guide you to the perfect song for your mood.
 
-
-### ```Instalación```
-Puedes instalar la gema ejecutando:
-
+### ```Installation```
+You can install the gem by running:
 ```bash
 gem install ts_recommend
 ```
-### ``` Ejemplo de Uso```
+### ``` Usage Example```
 ```ruby
 require 'ts_recommend'
 # Iniciar el menú interactivo
 TaylorSwiftRecommend.run
 ```
+### ```Development```
+After cloning the repository, run bin/setup to install dependencies. You can then run tests with respec.
 
-### ``` Desarrollo```
-Después de clonar el repositorio, ejecuta bin/setup para instalar las dependencias. Luego, puedes ejecutar las pruebas con rake spec.
+### ```Contribution```
+Bug reports and pull requests are welcome at laura.cuenca1@gmail.com.
 
-### ```Contribución```
-Los informes de errores y las solicitudes de extracción son bienvenidos en laura.cuenca1@gmail.com
-
-### ``` Licencia```
-Esta gema está disponible como código abierto bajo los términos de la Licencia MIT.
+### ``` License```
+This gem is available as open-source under the terms of the MIT License.
