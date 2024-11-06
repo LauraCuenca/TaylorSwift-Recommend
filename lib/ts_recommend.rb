@@ -89,12 +89,16 @@ module TaylorSwiftRecommend
     if SONGS.keys.include?(mood)
       song = SONGS[mood].sample
       album_color = ALBUM_COLORS[song[:album]] || :default
-      puts "Today, I recommend the song: '#{song[:song].colorize(album_color)}' from the album '#{song[:album].colorize(album_color)}'."
+  
+      song_text = song[:song].colorize(album_color)
+      album_text = song[:album].colorize(album_color)
+  
+      puts "Today, I recommend the song: '#{song_text}' from the album '#{album_text}'."
     else
       puts "Sorry, I don’t recognize that mood. Please try again.".red
       ask_for_mood
     end
-  end  
+  end
   
   def self.run
       ask_for_mood
