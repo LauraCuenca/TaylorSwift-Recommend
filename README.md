@@ -1,7 +1,7 @@
 # ```TaylorSwift-Recommend```
 ### ``` Description:```<br>
 `ts_recommend`is a Ruby gem that provides personalized Taylor Swift song recommendations based on your mood. Through a simple interaction, you can receive song suggestions from different albums by one of the most influential artists in contemporary music.
-![consola](https://github.com/user-attachments/assets/5c806e16-60ca-4e1b-95b7-de8b5f60415c)
+![consola](https://github.com/user-attachments/assets/cd36047b-6810-4deb-a226-50ce3e4c9f09)
 
 ### ```Taylor Swift's Journey :``` <br>
 Taylor Swift is an American singer-songwriter who has left an indelible mark on the music industry since her debut in 2006. Known for her storytelling ability, she has explored various genres, from country to pop, and more recently, indie folk. Her debut album, *Taylor Swift*, was followed by major successes like *Fearless*, which won multiple Grammy Awards and established her in mainstream music.<br>
