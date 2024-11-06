@@ -3,6 +3,14 @@ set -euo pipefail
 IFS=$'\n\t'
 set -vx
 
+# Verifica si la gema 'colorized' está instalada
+if ! gem list colorized -i; then
+  echo "La gema 'colorized' no está instalada. Instalando..."
+  gem install colorized
+else
+  echo "La gema 'colorized' ya está instalada."
+fi
+
+# Instalar las dependencias del proyecto
 bundle install
 
-# Do any other automated setup that you need to do here
