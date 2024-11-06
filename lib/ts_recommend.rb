@@ -96,7 +96,6 @@ module TaylorSwiftRecommend
       puts "Today, I recommend the song: '#{song_text}' from the album '#{album_text}'."
     else
       puts "Sorry, I don’t recognize that mood. Please try again.".red
-      ask_for_mood
     end
   end
   
