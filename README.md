@@ -4,7 +4,7 @@
 
 ### Trayectoria de Taylor Swift: <br>
 Taylor Swift es una cantautora estadounidense que ha dejado una huella imborrable en la industria musical desde su debut en 2006. Conocida por su habilidad para contar historias a través de sus letras, ha explorado diversos géneros, desde el country hasta el pop, y más recientemente, el indie folk. Su álbum debut, *Taylor Swift*, fue seguido por éxitos como *Fearless*, que ganó múltiples premios Grammy y consolidó su lugar en la música mainstream.<br>
-<img src="public/ts.png" alt="Taylor Swift" width="250" height="650">
+<img src="public/ts.png" alt="Taylor Swift" width="250" height="550">
 
 A lo largo de su carrera, Taylor ha lanzado álbumes icónicos que han sido aclamados tanto por la crítica como por los fans. Algunos de sus álbumes más destacados incluyen:
 
