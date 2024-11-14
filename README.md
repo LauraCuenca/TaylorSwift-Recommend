@@ -1,7 +1,8 @@
 # ```TaylorSwift-Recommend```
 ### ``` Description:```<br>
 `ts_recommend`is a Ruby gem that provides personalized Taylor Swift song recommendations based on your mood. Through a simple interaction, you can receive song suggestions from different albums by one of the most influential artists in contemporary music.
-![consola](https://github.com/user-attachments/assets/cd36047b-6810-4deb-a226-50ce3e4c9f09)
+![consola](https://github.com/user-attachments/assets/0a862d11-2494-4aaa-83b2-0f7cbbd9336b)
+
 
 ### ```Installation```
 You can install the gem by running:
