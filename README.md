@@ -20,8 +20,6 @@ gem install ts_recommend
 ### ``` Usage Example```
 ```ruby
 require 'ts_recommend'
-# Iniciar el menú interactivo
-TaylorSwiftRecommend.run
 ```
 ### ```Development```
 After cloning the repository, run bin/setup to install dependencies. You can then run tests with rspec.
