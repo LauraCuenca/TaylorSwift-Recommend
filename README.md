@@ -1,8 +1,16 @@
 # ```TaylorSwift-Recommend```
 ### ``` Description:```<br>
-`ts_recommend`is a Ruby gem that provides personalized Taylor Swift song recommendations based on your mood. Through a simple interaction, you can receive song suggestions from different albums by one of the most influential artists in contemporary music.
-![consola](https://github.com/user-attachments/assets/0a862d11-2494-4aaa-83b2-0f7cbbd9336b)
+`ts_recommend` is a Ruby gem that provides personalized Taylor Swift song recommendations based on your mood. Through a simple interaction, you can receive song suggestions from different albums by one of the most influential artists in contemporary music.
 
+With ts_recommend, you can:
+
+- Add or remove songs from different moods: Customize the song list by adding or removing songs for specific moods (e.g., happy, sad, angry).
+- Create new moods: Define your own moods and assign songs to them, creating a fully personalized experience.
+- Delete moods: If a mood no longer fits your preferences, you can remove it along with its songs.
+- Filter songs by album: Choose an album, and the gem will recommend a song from that particular album.
+- Contains a JSON file with all 11 Taylor Swift albums: The JSON file includes information about Taylor Swift's 11 studio albums and their respective songs, allowing easy access to a vast collection of her music.
+- With these features,`ts_recommend` lets you personalize your musical experience and discover new Taylor Swift songs based on your mood and personal preferences.
+![consola](https://github.com/user-attachments/assets/0a862d11-2494-4aaa-83b2-0f7cbbd9336b)
 
 ### ```Installation```
 You can install the gem by running:
@@ -16,7 +24,7 @@ require 'ts_recommend'
 TaylorSwiftRecommend.run
 ```
 ### ```Development```
-After cloning the repository, run bin/setup to install dependencies. You can then run tests with respec.
+After cloning the repository, run bin/setup to install dependencies. You can then run tests with rspec.
 
 ### ```Contribution```
 Bug reports and pull requests are welcome at laura.cuenca1@gmail.com.
