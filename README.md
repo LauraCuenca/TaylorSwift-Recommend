@@ -9,7 +9,7 @@ With ts_recommend, you can:
 - Delete moods: If a mood no longer fits your preferences, you can remove it along with its songs.
 - Filter songs by album: Choose an album, and the gem will recommend a song from that particular album.
 - Contains a JSON file with all 11 Taylor Swift albums: The JSON file includes information about Taylor Swift's 11 studio albums and their respective songs, allowing easy access to a vast collection of her music.
-- With these features,`ts_recommend` lets you personalize your musical experience and discover new Taylor Swift songs based on your mood and personal preferences.
+- With these features,`ts_recommend` lets you personalize your musical experience and discover new Taylor Swift songs based on your mood and personal preferences. <br>
 ![consola](https://github.com/user-attachments/assets/0a862d11-2494-4aaa-83b2-0f7cbbd9336b)
 
 ### ```Installation```
