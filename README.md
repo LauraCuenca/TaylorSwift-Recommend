@@ -26,7 +26,7 @@ This gem is available as open-source under the terms of the MIT License.
 
 ### ```Taylor Swift's Journey :``` <br>
 Taylor Swift is an American singer-songwriter who has left an indelible mark on the music industry since her debut in 2006. Known for her storytelling ability, she has explored various genres, from country to pop, and more recently, indie folk. Her debut album, *Taylor Swift*, was followed by major successes like *Fearless*, which won multiple Grammy Awards and established her in mainstream music.<br>
-<img src="public/ts.png" alt="Taylor Swift" height="500">
+<img src="data/ts.png" alt="Taylor Swift" height="500">
 
 Throughout her career, Taylor has released iconic albums that have been acclaimed by critics and fans alike. Some of her standout albums include:
 

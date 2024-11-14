@@ -1,0 +1,1049 @@
+{
+    "albums": [
+        {
+            "title": "Taylor Swift",
+            "releaseYear": 2006,
+            "songs": [
+                {
+                    "title": "Tim McGraw",
+                    "duration": "3:54"
+                },
+                {
+                    "title": "Picture to Burn",
+                    "duration": "2:55"
+                },
+                {
+                    "title": "Teardrops on My Guitar",
+                    "duration": "3:35"
+                },
+                {
+                    "title": "A Place in This World",
+                    "duration": "3:22"
+                },
+                {
+                    "title": "Cold as You",
+                    "duration": "4:01"
+                },
+                {
+                    "title": "The Outside",
+                    "duration": "3:29"
+                },
+                {
+                    "title": "Tied Together with a Smile",
+                    "duration": "4:11"
+                },
+                {
+                    "title": "Stay Beautiful",
+                    "duration": "3:58"
+                },
+                {
+                    "title": "Should've Said No",
+                    "duration": "4:04"
+                },
+                {
+                    "title": "Mary's Song (Oh My My My)",
+                    "duration": "3:35"
+                },
+                {
+                    "title": "Our Song",
+                    "duration": "3:24"
+                }
+            ]
+        },
+        {
+            "title": "Fearless (Taylor's Version)",
+            "releaseYear": 2021,
+            "songs": [
+                {
+                    "title": "Fearless",
+                    "duration": "4:01"
+                },
+                {
+                    "title": "Fifteen",
+                    "duration": "4:54"
+                },
+                {
+                    "title": "Love Story",
+                    "duration": "3:55"
+                },
+                {
+                    "title": "Hey Stephen",
+                    "duration": "4:14"
+                },
+                {
+                    "title": "White Horse",
+                    "duration": "3:54"
+                },
+                {
+                    "title": "You Belong with Me",
+                    "duration": "3:51"
+                },
+                {
+                    "title": "Breathe",
+                    "featuring": "Colbie Caillat",
+                    "duration": "4:23"
+                },
+                {
+                    "title": "Tell Me Why",
+                    "duration": "3:20"
+                },
+                {
+                    "title": "You're Not Sorry",
+                    "duration": "4:21"
+                },
+                {
+                    "title": "The Way I Loved You",
+                    "duration": "4:03"
+                },
+                {
+                    "title": "Forever & Always",
+                    "duration": "3:45"
+                },
+                {
+                    "title": "The Best Day",
+                    "duration": "4:05"
+                },
+                {
+                    "title": "Change",
+                    "duration": "4:49"
+                },
+                {
+                    "title": "Jump Then Fall",
+                    "duration": "3:57"
+                },
+                {
+                    "title": "Untouchable",
+                    "duration": "5:12"
+                },
+                {
+                    "title": "Forever & Always (Piano Version)",
+                    "duration": "4:27"
+                },
+                {
+                    "title": "Come In With The Rain",
+                    "duration": "3:57"
+                },
+                {
+                    "title": "Superstar",
+                    "duration": "4:23"
+                },
+                {
+                    "title": "The Other Side of the Door",
+                    "duration": "3:58"
+                },
+                {
+                    "title": "Today Was a Fairytale",
+                    "duration": "4:01"
+                },
+                {
+                    "title": "You All Over Me",
+                    "featuring": "Maren Morris",
+                    "duration": "3:40"
+                },
+                {
+                    "title": "Mr. Perfectly Fine",
+                    "duration": "4:37"
+                },
+                {
+                    "title": "We Were Happy",
+                    "duration": "4:04"
+                },
+                {
+                    "title": "That's When",
+                    "featuring": "Keith Urban",
+                    "duration": "3:09"
+                },
+                {
+                    "title": "Don't You",
+                    "duration": "3:28"
+                },
+                {
+                    "title": "Bye Bye Baby",
+                    "duration": "4:02"
+                }
+            ]
+        },{
+            "title": "Speak Now (Taylor's Version)",
+            "releaseYear": 2023,
+            "songs": [
+                {
+                    "title": "Mine",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "3:51"
+                },
+                {
+                    "title": "Sparks Fly",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:21"
+                },
+                {
+                    "title": "Back to December",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:54"
+                },
+                {
+                    "title": "Speak Now",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:02"
+                },
+                {
+                    "title": "Dear John",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "6:45"
+                },
+                {
+                    "title": "Mean",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "3:58"
+                },
+                {
+                    "title": "The Story of Us",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:27"
+                },
+                {
+                    "title": "Never Grow Up",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:52"
+                },
+                {
+                    "title": "Enchanted",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "5:53"
+                },
+                {
+                    "title": "Better Than Revenge",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "3:40"
+                },
+                {
+                    "title": "Innocent",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "5:01"
+                },
+                {
+                    "title": "Haunted",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:05"
+                },
+                {
+                    "title": "Last Kiss",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "6:09"
+                },
+                {
+                    "title": "Long Live",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "5:17"
+                },
+                {
+                    "title": "Ours",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "3:55"
+                },
+                {
+                    "title": "Superman",
+                    "producers": ["Christopher Rowe", "Taylor Swift"],
+                    "duration": "4:34"
+                },
+                {
+                    "title": "Electric Touch",
+                    "producers": ["Aaron Dessner", "Taylor Swift"],
+                    "featuring": "Fall Out Boy",
+                    "duration": "4:26"
+                },
+                {
+                    "title": "When Emma Falls in Love",
+                    "producers": ["Aaron Dessner", "Taylor Swift"],
+                    "duration": "4:12"
+                },
+                {
+                    "title": "I Can See You",
+                    "producers": ["Jack Antonoff", "Taylor Swift"],
+                    "duration": "4:33"
+                },
+                {
+                    "title": "Castles Crumbling",
+                    "producers": ["Jack Antonoff", "Taylor Swift"],
+                    "featuring": "Hayley Williams",
+                    "duration": "5:06"
+                },
+                {
+                    "title": "Foolish One",
+                    "producers": ["Aaron Dessner", "Taylor Swift"],
+                    "duration": "5:11"
+                },
+                {
+                    "title": "Timeless",
+                    "producers": ["Aaron Dessner", "Taylor Swift"],
+                    "duration": "4:09"
+                }
+            ]
+        },
+            {
+                "title": "Red (Taylor's Version)",
+                "releaseYear": 2021,
+                "songs": [
+                    {
+                        "title": "State of Grace",
+                        "duration": "4:55"
+                    },
+                    {
+                        "title": "Red",
+                        "duration": "3:43"
+                    },
+                    {
+                        "title": "Treacherous",
+                        "duration": "4:02"
+                    },
+                    {
+                        "title": "I Knew You Were Trouble",
+                        "duration": "3:39"
+                    },
+                    {
+                        "title": "All Too Well",
+                        "duration": "5:29"
+                    },
+                    {
+                        "title": "22",
+                        "duration": "3:50"
+                    },
+                    {
+                        "title": "I Almost Do",
+                        "duration": "4:04"
+                    },
+                    {
+                        "title": "We Are Never Ever Getting Back Together",
+                        "duration": "3:13"
+                    },
+                    {
+                        "title": "Stay Stay Stay",
+                        "duration": "3:25"
+                    },
+                    {
+                        "title": "The Last Time",
+                        "duration": "4:59"
+                    },
+                    {
+                        "title": "Holy Ground",
+                        "duration": "3:22"
+                    },
+                    {
+                        "title": "Sad Beautiful Tragic",
+                        "duration": "4:44"
+                    },
+                    {
+                        "title": "The Lucky One",
+                        "duration": "4:00"
+                    },
+                    {
+                        "title": "Everything Has Changed",
+                        "duration": "4:05"
+                    },
+                    {
+                        "title": "Starlight",
+                        "duration": "3:40"
+                    },
+                    {
+                        "title": "Begin Again",
+                        "duration": "3:58"
+                    },
+                    {
+                        "title": "The Moment I Knew",
+                        "duration": "4:45"
+                    },
+                    {
+                        "title": "Come Back... Be Here",
+                        "duration": "3:43"
+                    },
+                    {
+                        "title": "Girl at Home",
+                        "duration": "3:40"
+                    },
+                    {
+                        "title": "State of Grace (Acoustic)",
+                        "duration": "5:21"
+                    },
+                    {
+                        "title": "Ronan",
+                        "duration": "4:24"
+                    },
+                    {
+                        "title": "Better Man",
+                        "duration": "4:57"
+                    },
+                    {
+                        "title": "Nothing New",
+                        "duration": "4:18"
+                    },
+                    {
+                        "title": "Babe",
+                        "duration": "3:44"
+                    },
+                    {
+                        "title": "Message in a Bottle",
+                        "duration": "3:45"
+                    },
+                    {
+                        "title": "I Bet You Think About Me",
+                        "duration": "4:45"
+                    },
+                    {
+                        "title": "Forever Winter",
+                        "duration": "4:23"
+                    },
+                    {
+                        "title": "Run",
+                        "duration": "4:00"
+                    },
+                    {
+                        "title": "The Very First Night",
+                        "duration": "3:20"
+                    },
+                    {
+                        "title": "All Too Well (10 Minute Version)",
+                        "duration": "10:13"
+                    }
+                ]
+            },
+        {
+            "title": "1989 (Taylor's Version)",
+            "releaseYear": 2023,
+            "songs": [
+                {
+                    "title": "Welcome To New York",
+                    "duration": "3:33"
+                },
+                {
+                    "title": "Blank Space",
+                    "duration": "3:52"
+                },
+                {
+                    "title": "Style",
+                    "duration": "3:51"
+                },
+                {
+                    "title": "Out Of The Woods",
+                    "duration": "3:56"
+                },
+                {
+                    "title": "All You Had To Do Was Stay",
+                    "duration": "3:13"
+                },
+                {
+                    "title": "Shake It Off",
+                    "duration": "3:39"
+                },
+                {
+                    "title": "I Wish You Would",
+                    "duration": "3:27"
+                },
+                {
+                    "title": "Bad Blood",
+                    "duration": "3:32"
+                },
+                {
+                    "title": "Wildest Dreams",
+                    "duration": "3:40"
+                },
+                {
+                    "title": "How You Get The Girl",
+                    "duration": "4:08"
+                },
+                {
+                    "title": "This Love",
+                    "duration": "4:10"
+                },
+                {
+                    "title": "I Know Places",
+                    "duration": "3:16"
+                },
+                {
+                    "title": "Clean",
+                    "duration": "4:31"
+                },
+                {
+                    "title": "Wonderland",
+                    "duration": "4:06"
+                },
+                {
+                    "title": "You Are In Love",
+                    "duration": "4:27"
+                },
+                {
+                    "title": "New Romantics",
+                    "duration": "3:50"
+                }
+            ]
+        },
+        {
+            "title": "Reputation",
+            "releaseYear": 2017,
+            "songs": [
+                {
+                    "title": "...Ready For It?",
+                    "duration": "3:28"
+                },
+                {
+                    "title": "End Game (featuring Ed Sheeran and Future)",
+                    "duration": "4:04"
+                },
+                {
+                    "title": "I Did Something Bad",
+                    "duration": "3:58"
+                },
+                {
+                    "title": "Don't Blame Me",
+                    "duration": "3:56"
+                },
+                {
+                    "title": "Delicate",
+                    "duration": "3:52"
+                },
+                {
+                    "title": "Look What You Made Me Do",
+                    "duration": "3:31"
+                },
+                {
+                    "title": "So It Goes...",
+                    "duration": "3:47"
+                },
+                {
+                    "title": "Gorgeous",
+                    "duration": "3:29"
+                },
+                {
+                    "title": "Getaway Car",
+                    "duration": "3:53"
+                },
+                {
+                    "title": "King Of My Heart",
+                    "duration": "3:34"
+                },
+                {
+                    "title": "Dancing With Our Hands Tied",
+                    "duration": "3:31"
+                },
+                {
+                    "title": "Dress",
+                    "duration": "3:50"
+                },
+                {
+                    "title": "This Is Why We Can't Have Nice Things",
+                    "duration": "3:27"
+                },
+                {
+                    "title": "Call It What You Want",
+                    "duration": "3:23"
+                },
+                {
+                    "title": "New Year's Day",
+                    "duration": "3:55"
+                }
+            ]
+        },
+        {
+            "title": "Lover",
+            "releaseYear": 2019,
+            "songs": [
+                {
+                    "title": "I Forgot That You Existed",
+                    "duration": "2:51"
+                },
+                {
+                    "title": "Cruel Summer",
+                    "duration": "2:58"
+                },
+                {
+                    "title": "Lover",
+                    "duration": "3:41"
+                },
+                {
+                    "title": "The Man",
+                    "duration": "3:10"
+                },
+                {
+                    "title": "The Archer",
+                    "duration": "3:31"
+                },
+                {
+                    "title": "I Think He Knows",
+                    "duration": "2:53"
+                },
+                {
+                    "title": "Miss Americana & The Heartbreak Prince",
+                    "duration": "3:54"
+                },
+                {
+                    "title": "Paper Rings",
+                    "duration": "3:42"
+                },
+                {
+                    "title": "Cornelia Street",
+                    "duration": "4:47"
+                },
+                {
+                    "title": "Death By A Thousand Cuts",
+                    "duration": "3:19"
+                },
+                {
+                    "title": "London Boy",
+                    "duration": "3:10"
+                },
+                {
+                    "title": "Soon You'll Get Better",
+                    "duration": "3:22"
+                },
+                {
+                    "title": "False God",
+                    "duration": "3:20"
+                },
+                {
+                    "title": "You Need To Calm Down",
+                    "duration": "2:51"
+                },
+                {
+                    "title": "Afterglow",
+                    "duration": "3:43"
+                },
+                {
+                    "title": "Me! (featuring Brendon Urie)",
+                    "duration": "3:13"
+                },
+                {
+                    "title": "It's Nice To Have a Friend",
+                    "duration": "2:30"
+                },
+                {
+                    "title": "Daylight",
+                    "duration": "4:53"
+                }
+            ]
+        },
+        {
+            "title": "Folklore",
+            "releaseYear": 2020,
+            "songs": [
+                {
+                    "title": "The 1",
+                    "duration": "3:30"
+                },
+                {
+                    "title": "Cardigan",
+                    "duration": "3:59"
+                },
+                {
+                    "title": "The Last Great American Dynasty",
+                    "duration": "3:51"
+                },
+                {
+                    "title": "Exile",
+                    "duration": "4:45"
+                },
+                {
+                    "title": "My Tears Ricochet",
+                    "duration": "4:15"
+                },
+                {
+                    "title": "Mirrorball",
+                    "duration": "3:29"
+                },
+                {
+                    "title": "Seven",
+                    "duration": "3:28"
+                },
+                {
+                    "title": "August",
+                    "duration": "4:21"
+                },
+                {
+                    "title": "This Is Me Trying",
+                    "duration": "3:15"
+                },
+                {
+                    "title": "Illicit Affairs",
+                    "duration": "3:10"
+                },
+                {
+                    "title": "Invisible String",
+                    "duration": "4:12"
+                },
+                {
+                    "title": "Mad Woman",
+                    "duration": "3:57"
+                },
+                {
+                    "title": "Epiphany",
+                    "duration": "4:49"
+                },
+                {
+                    "title": "Betty",
+                    "duration": "4:54"
+                },
+                {
+                    "title": "Peace",
+                    "duration": "3:54"
+                },
+                {
+                    "title": "Hoax",
+                    "duration": "3:40"
+                }
+            ]
+        },
+        {
+            "title": "Evermore",
+            "releaseYear": 2020,
+            "songs": [
+                {
+                    "title": "Willow",
+                    "duration": "3:34"
+                },
+                {
+                    "title": "Champagne Problems",
+                    "duration": "4:04"
+                },
+                {
+                    "title": "Gold Rush",
+                    "duration": "3:05"
+                },
+                {
+                    "title": "'Tis The Damn Season",
+                    "duration": "3:49"
+                },
+                {
+                    "title": "Tolerate It",
+                    "duration": "4:05"
+                },
+                {
+                    "title": "No Body, No Crime",
+                    "featuring": "Haim",
+                    "duration": "3:35"
+                },
+                {
+                    "title": "Happiness",
+                    "duration": "5:15"
+                },
+                {
+                    "title": "Dorothea",
+                    "duration": "3:45"
+                },
+                {
+                    "title": "Coney Island",
+                    "featuring": "The National",
+                    "duration": "4:35"
+                },
+                {
+                    "title": "Ivy",
+                    "duration": "4:20"
+                },
+                {
+                    "title": "Cowboy Like Me",
+                    "duration": "4:35"
+                },
+                {
+                    "title": "Long Story Short",
+                    "duration": "3:35"
+                },
+                {
+                    "title": "Marjorie",
+                    "duration": "4:17"
+                },
+                {
+                    "title": "Closure",
+                    "duration": "3:00"
+                },
+                {
+                    "title": "Evermore",
+                    "featuring": "Bon Iver",
+                    "duration": "4:25"
+                },
+                {
+                    "title": "Right Where You Left Me",
+                    "duration": "4:30"
+                },
+                {
+                    "title": "It's Time To Go",
+                    "duration": "4:14"
+                }
+            ]
+        },
+        {
+            "title": "Midnights",
+            "releaseYear": 2022,
+            "songs": [
+                {
+                    "title": "Lavender Haze",
+                    "duration": "3:22"
+                },
+                {
+                    "title": "Maroon",
+                    "duration": "3:38"
+                },
+                {
+                    "title": "Anti-Hero",
+                    "duration": "3:20"
+                },
+                {
+                    "title": "Snow on the Beach",
+                    "featuring": "Lana Del Rey",
+                    "duration": "4:16"
+                },
+                {
+                    "title": "You're on Your Own, Kid",
+                    "duration": "3:14"
+                },
+                {
+                    "title": "Midnight Rain",
+                    "duration": "2:54"
+                },
+                {
+                    "title": "Question...?",
+                    "duration": "3:30"
+                },
+                {
+                    "title": "Vigilante Shit",
+                    "duration": "2:44"
+                },
+                {
+                    "title": "Bejeweled",
+                    "duration": "3:14"
+                },
+                {
+                    "title": "Labyrinth",
+                    "duration": "4:07"
+                },
+                {
+                    "title": "Karma",
+                    "duration": "3:24"
+                },
+                {
+                    "title": "Sweet Nothing",
+                    "duration": "3:08"
+                },
+                {
+                    "title": "Mastermind",
+                    "duration": "3:11"
+                },
+                {
+                    "title": "Hits Different",
+                    "duration": "3:54"
+                },
+                {
+                    "title": "You're On Your Own, Kid (Strings Remix)",
+                    "duration": "3:20"
+                },
+                {
+                    "title": "Sweet Nothing (Piano Remix)",
+                    "duration": "3:28"
+                },
+                {
+                    "title": "The Great War",
+                    "duration": "4:00"
+                },
+                {
+                    "title": "Bigger Than the Whole Sky",
+                    "duration": "3:38"
+                },
+                {
+                    "title": "Paris",
+                    "duration": "3:16"
+                },
+                {
+                    "title": "High Infidelity",
+                    "duration": "3:51"
+                },
+                {
+                    "title": "Glitch",
+                    "duration": "2:28"
+                },
+                {
+                    "title": "Would've, Could've, Should've",
+                    "duration": "4:20"
+                },
+                {
+                    "title": "Dear Reader",
+                    "duration": "3:45"
+                },
+                {
+                    "title": "Hits Different",
+                    "duration": "3:54"
+                },
+                {
+                    "title": "Snow On the Beach",
+                    "featuring": "more Lana Del Rey",
+                    "duration": "3:50"
+                },
+                {
+                    "title": "Karma",
+                    "featuring": "Ice Spice",
+                    "duration": "3:22"
+                },
+                {
+                    "title": "The Great War",
+                    "duration": "4:00"
+                },
+                {
+                    "title": "Bigger Than the Whole Sky",
+                    "duration": "3:38"
+                },
+                {
+                    "title": "High Infidelity",
+                    "duration": "3:51"
+                },
+                {
+                    "title": "Would've, Could've, Should've",
+                    "duration": "4:20"
+                },
+                {
+                    "title": "Dear Reader",
+                    "duration": "3:45"
+                },
+                {
+                    "title": "You're Losing Me",
+                    "fromTheVault": true,
+                    "duration": "4:38"
+                },
+                {
+                    "title": "Snow On the Beach",
+                    "featuring": "more Lana Del Rey",
+                    "duration": "3:50"
+                }
+
+            ]
+        },
+        {
+            "title": "The Tortured Poets Department",
+            "releaseYear": 2024,
+            "songs": [
+                {
+                    "title": "Fortnight",
+                    "featuring": "Post Malone",
+                    "duration": "3:48"
+                },
+                {
+                    "title": "The Tortured Poets Department",
+                    "duration": "4:53"
+                },
+                {
+                    "title": "My Boy Only Breaks His Favorite Toys",
+                    "duration": "3:23"
+                },
+                {
+                    "title": "Down Bad",
+                    "duration": "4:21"
+                },
+                {
+                    "title": "So Long, London",
+                    "duration": "4:22"
+                },
+                {
+                    "title": "But Daddy I Love Him",
+                    "duration": "5:40"
+                },
+                {
+                    "title": "Fresh Out the Slammer",
+                    "duration": "3:30"
+                },
+                {
+                    "title": "Florida!!!",
+                    "featuring": "Florence + The Machine",
+                    "duration": "3:35"
+                },
+                {
+                    "title": "Guilty as Sin?",
+                    "duration": "4:14"
+                },
+                {
+                    "title": "Who's Afraid of Little Old Me?",
+                    "duration": "5:34"
+                },
+                {
+                    "title": "I Can Fix Him (No Really, I Can)",
+                    "duration": "2:36"
+                },
+                {
+                    "title": "LOML",
+                    "duration": "4:37"
+                },
+                {
+                    "title": "I Can Do It with a Broken Heart",
+                    "duration": "3:38"
+                },
+                {
+                    "title": "The Smallest Man Who Ever Lived",
+                    "duration": "4:05"
+                },
+                {
+                    "title": "The Alchemy",
+                    "duration": "3:16"
+                },
+                {
+                    "title": "Clara Bow",
+                    "duration": "3:36"
+                },
+                {
+                    "title": "The Black Dog",
+                    "duration": "3:58"
+                },
+                {
+                    "title": "I'm Gonna Get You Back",
+                    "duration": "3:42"
+                },
+                {
+                    "title": "The Albatross",
+                    "duration": "3:03"
+                },
+                {
+                    "title": "Chloe or Sam or Sophia or Marcus",
+                    "duration": "3:33"
+                },
+                {
+                    "title": "How Did It End?",
+                    "duration": "3:58"
+                },
+                {
+                    "title": "So High School",
+                    "duration": "3:48"
+                },
+                {
+                    "title": "I Hate It Here",
+                    "duration": "4:03"
+                },
+                {
+                    "title": "Thank You AIMEE",
+                    "duration": "4:23"
+                },
+                {
+                    "title": "I Look in People's Windows",
+                    "duration": "2:11"
+                },
+                {
+                    "title": "The Prophecy",
+                    "duration": "4:09"
+                },
+                {
+                    "title": "Cassandra",
+                    "duration": "4:00"
+                },
+                {
+                    "title": "Peter",
+                    "duration": "4:43"
+                },
+                {
+                    "title": "The Bolter",
+                    "duration": "3:58"
+                },
+                {
+                    "title": "Robin",
+                    "duration": "4:00"
+                },
+                {
+                    "title": "The Manuscript",
+                    "duration": "3:44"
+                }
+            ]
+        }
+    ]
+}
+
+
